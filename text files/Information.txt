@@ -1,0 +1,4 @@
+
+Platform : win32 Architecture : x64totalmemory : 7932.6171875 GB
+Platform : win32 Architecture : x64totalmemory : 7932.6171875 GB
+Platform : win32 Architecture : x64totalmemory : 7932.6171875 GB
